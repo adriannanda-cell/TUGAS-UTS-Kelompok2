@@ -1,0 +1,39 @@
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Resources.resources
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Resources.resources
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.C52DAF7E.Up2Date
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
