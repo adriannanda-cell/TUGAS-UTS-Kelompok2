@@ -1,8 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Q7ggZ+j4q0s=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rexavier Joshua\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "3HiiwMIMrMQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+>>>>>>> a9466c4 (Final UTS - Aplikasi Kasir Laptop)
   "logs": []
 }

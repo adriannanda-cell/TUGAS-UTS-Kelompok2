@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Rexavier Joshua\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rexavier Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+        "projectName": "WinFormsApp2",
+        "projectPath": "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Downloads\\TUGAS-UTS-Kelompok2-main\\src\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> a9466c4 (Final UTS - Aplikasi Kasir Laptop)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +62,15 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+>>>>>>> a9466c4 (Final UTS - Aplikasi Kasir Laptop)
           "imports": [
             "net461",
             "net462",

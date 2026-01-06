@@ -14,7 +14,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormsApp2
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Rexavier Joshua\source\repos\WinFormsApp2\WinFormsApp2\
+=======
+build_property.ProjectDir = C:\Users\Asus\Downloads\TUGAS-UTS-Kelompok2-main\src\WinFormsApp2\WinFormsApp2\
+>>>>>>> a9466c4 (Final UTS - Aplikasi Kasir Laptop)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

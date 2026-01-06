@@ -12,8 +12,13 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\Rexavier Joshua\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Rexavier Joshua\\.nuget\\packages"
+=======
+      "C:\\Users\\Asus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Asus\\.nuget\\packages"
+>>>>>>> a9466c4 (Final UTS - Aplikasi Kasir Laptop)
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
